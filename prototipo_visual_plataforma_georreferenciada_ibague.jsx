@@ -1,4 +1,4 @@
-export default function PrototipoCiudadano() {
+export default function App() {
   const reportes = [
     {
       titulo: 'Hueco en vía principal',
